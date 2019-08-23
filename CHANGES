@@ -1,6 +1,4 @@
-0.1	2018-12-06
+
+1.0.0	2019-08-23
+
 	- Initial snapshot
-0.2	2019-03-05
-	- Moved preproc to derivatives
-	- EEG now follows BEP006
-	- Added json description for events
