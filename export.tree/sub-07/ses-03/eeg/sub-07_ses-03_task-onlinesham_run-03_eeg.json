@@ -1,0 +1,32 @@
+{
+	"TaskName" : "task-onlinesham",
+	"TaskDescription" : "Sustain covert visuospatial attention during a 1-5s window to one of two lateral target placeholders while maintaining central fixation. Reaction time was measured with button press as reaction to target appearance at the cued or uncued location (valid/invalid trials).",
+	"InstitutionName" : "EPFL",
+	"InstitutionAddress" : "Chemin des Mines 9, 1202 Genève",
+	"Manufacturer" : "g.tec",
+	"ManufacturersModelName" : "HIamp",
+	"CapManufacturer" : "g.tec",
+	"CapManufacturersModelName" : "g.GAMMAsys",
+	"RecordingDuration" : 638,
+	"RecordingType" : "continuous",
+	"SamplingFrequency" : 512,
+	"EEGChannelCount" : 64,
+	"EOGChannelCount" : 0,
+	"EMGChannelCount" : 0,
+	"ECGChannelCount" : 0,
+	"MiscChannelCount" : 16,
+	"TriggerChannelCount" : 1,
+	"EEGReference" : "Linked-ears (channels 63-64)",
+	"EEGGround" : "FCz",
+	"EEGPlacementScheme" : "10-10",
+	"PowerLineFrequency" : 50,
+	"HardwareFilters" : {
+		"BandpassFilter" : {
+			"LowCutoff_Hz_" : 0.01,
+			"HighCutoff_Hz_" : 250,
+			"Roll_off" : "6dB/Octave"
+			}
+		},
+	"SoftwareFilters" : "n/a",
+	"SubjectArtefactDescription" : "n/a"
+	}
